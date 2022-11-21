@@ -1,7 +1,7 @@
 # Super-resolving Compressed Images via Parallel and Series Integration of Artifact Reduction and Resolution Enhancement 
 Hongming Luo, Fei Zhou, Guangsen Liao, and Guoping Qiu
 
-This repository is the official PyTorch implementation of *Super-resolving Compressed Images via Parallel and Series Integration of Artifact Reduction and Resolution Enhancement *
+This repository is the official PyTorch implementation of *Super-resolving Compressed Images via Parallel and Series Integration of Artifact Reduction and Resolution Enhancement*
 ([[arXiv]](https://arxiv.org/abs/2103.01698)) or ([[Elsevier]](https://www.sciencedirect.com/science/article/pii/S0165168422004005?dgcid=rss_sd_all))
 This paper has been accepted by Elsevier Signal Processing.
 
@@ -13,8 +13,7 @@ This paper has been accepted by Elsevier Signal Processing.
 3. [Test](#Test)
 4. [Results](#Results)
 5. [Citation](#Citation)
-6. [Acknowledgment](#Acknowledgment)
-7. [License](#License)
+6. [License](#License)
 
 
 More detials are showed in our [Online Materials](http://www.vista.ac.cn/cisr-pcs/).
@@ -66,13 +65,13 @@ Module II:
 
 1. Clone repo
 
-    ```https://github.com/luohongming/CISR_PSI.git```
+    ```git clone https://github.com/luohongming/CISR_PSI.git```
 
 2.Install dependent packages
     You need to install your own PyTorch version here. So we do not write Pytorch into requirements.txt
 
     cd CISR_PSI
-    pip install -r requirements.txt 
+    pip install -r requirements.txt
 
 
 <h2 id="Train"> Train </h2>
